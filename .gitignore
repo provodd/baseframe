@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+*.log
+
+/vendor/
+/node_modules/
+
+.env
+.env.local
+.env.*.local
+composer.lock
+package-lock.json
