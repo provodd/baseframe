@@ -6,7 +6,7 @@
 
 1. Склонировать репозиторий:
    ```bash
-   git clone
+   git clone git@github.com:provodd/baseframe.git .
 
 2. Установить зависимости:
    ```bash
